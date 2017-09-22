@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mCountingHelperSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mfindSafePos[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return None on Invalid parameters[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw IllegalArgumentException on n <= k[0m[0m
+[0m[[0minfo[0m] [0m[32m- should if k==2 use the optimization part of the code[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return correct values on correct inputs[0m[0m
